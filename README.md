@@ -44,3 +44,9 @@ to view the full functionality.
 
 ![Screenshot 2023-08-21 084822](https://github.com/njheymann/ORM-E-COMMERCE-NJH/assets/125000756/6b32a152-0873-49c0-8398-ce4241ee66a8)
 ![Screenshot 2023-08-21 084834](https://github.com/njheymann/ORM-E-COMMERCE-NJH/assets/125000756/94e85e39-a25e-4ed9-8d8c-9e65a5f3eeda)
+
+## Walkthrough Video
+https://drive.google.com/file/d/194ZbR_u2tkV9mG-xrhlgV8Yq_HM1MEIg/view
+
+## Repository URL
+https://github.com/njheymann/ORM-E-COMMERCE-NJH
