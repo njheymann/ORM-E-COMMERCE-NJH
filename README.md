@@ -33,3 +33,14 @@ Connect to server
 ```npm run seed```
 ```npm start```
 
+## Screenshots 
+NOTE: These images depict the same functionality as Category and Tags request. Please refer to walkthrough video  
+to view the full functionality.
+
+![Screenshot 2023-08-21 084714](https://github.com/njheymann/ORM-E-COMMERCE-NJH/assets/125000756/47a05a58-e443-42e5-bd81-76030acfb704)
+![Screenshot 2023-08-21 084730](https://github.com/njheymann/ORM-E-COMMERCE-NJH/assets/125000756/190e6ebc-3151-4504-aa84-74b042d785d8)
+
+![Screenshot 2023-08-21 084809](https://github.com/njheymann/ORM-E-COMMERCE-NJH/assets/125000756/e0214857-9547-4601-b07d-3ab6de8a8256)
+
+![Screenshot 2023-08-21 084822](https://github.com/njheymann/ORM-E-COMMERCE-NJH/assets/125000756/6b32a152-0873-49c0-8398-ce4241ee66a8)
+![Screenshot 2023-08-21 084834](https://github.com/njheymann/ORM-E-COMMERCE-NJH/assets/125000756/94e85e39-a25e-4ed9-8d8c-9e65a5f3eeda)
