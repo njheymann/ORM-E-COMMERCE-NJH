@@ -46,6 +46,10 @@ to view the full functionality.
 ![Screenshot 2023-08-21 084834](https://github.com/njheymann/ORM-E-COMMERCE-NJH/assets/125000756/94e85e39-a25e-4ed9-8d8c-9e65a5f3eeda)
 
 ## Walkthrough Video
+MySQL connection:  
+https://drive.google.com/file/d/1y0eM5Atl6c_8qVp9aCfcFV5zrJyEP9If/view
+
+Server connection and how to use app:  
 https://drive.google.com/file/d/194ZbR_u2tkV9mG-xrhlgV8Yq_HM1MEIg/view
 
 ## Repository URL
