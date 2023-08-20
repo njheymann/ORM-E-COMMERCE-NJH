@@ -1,4 +1,5 @@
 # ORM E-COMMERCE BACK END ASSIGNMENT NJH
+A backend app that allows the user to adjust data for products on an e-commerce site.
 
 ## USER STORY
 AS A manager of a retail company website  
